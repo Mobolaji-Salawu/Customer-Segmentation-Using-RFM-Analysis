@@ -23,7 +23,8 @@ The following Python libraries were used in this project:
 The main stages of the project is summarizsed in the flow chart below:
 ![image](https://github.com/Mobolaji-Salawu/Customer-Segmentation-Using-RFM-Analysis/assets/80423645/dea9f756-0bd3-4fb9-ad5e-b8ec8f722685)
 ## Results
-Using the RFM analysis method, the customers were grouped into various customer segments based on the how recent a purchase was made (*Recency*), how many times purchases were made over the two-year period (*Frequency*), and the total amount purchased over the same time frame (*Monetary Value*). The segments were ranked, from the highest value to the least value customer segment.
+Using the RFM analysis method, the customers were grouped into various customer segments based on the how recent a purchase was made (**Recency**), how many times purchases were made over the two-year period (**Frequency**), and the total amount purchased over the same time frame (**Monetary Value**). The segments were ranked, from the highest value to the lowest value customer segment.
 
 ![Customer Segmentation](https://github.com/Mobolaji-Salawu/Customer-Segmentation-Using-RFM-Analysis/assets/80423645/c501feea-ce7c-4bf4-b74f-81473da389f6)
-[^1]: Credit to [Connectif](https://connectif.ai/en/blog/what-are-rfm-scores-and-how-to-calculate-them/) for the customer segments used.
+
+Credit to [Connectif](https://connectif.ai/en/blog/what-are-rfm-scores-and-how-to-calculate-them/) for the customer segments used.
