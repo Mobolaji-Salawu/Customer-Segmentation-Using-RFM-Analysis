@@ -7,6 +7,7 @@ RFM analysis, a time-tested approach originating from direct marketing and retai
 * ***Recency*** – how recently a customer made a purchase
 * ***Frequency*** – how often has the customer made purchases over a specified period of time
 * ***Monetary Value*** – what is the total value of these purchases over the defined time period
+
 By examining these key parameters, businesses can categorize their customer base into distinct segments, each revealing unique patterns and characteristics.
 ## Methodology
 ### Data
