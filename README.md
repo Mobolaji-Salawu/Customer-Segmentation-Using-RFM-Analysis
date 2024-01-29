@@ -11,7 +11,7 @@ RFM analysis, a time-tested approach originating from direct marketing and retai
 By examining these key parameters, businesses can categorize their customer base into distinct segments, each revealing unique patterns and characteristics.
 ## Methodology
 ### Data
-The RFM analysis was done using the customer transaction data of a fictitious company.
+The RFM analysis was done using the customer transaction data of a fictional company.
 ### Python Libraries
 The following Python libraries were used in this project:
 * Numpy – For multi-dimensional array, matrix data structures and, performing mathematical operations
