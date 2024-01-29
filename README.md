@@ -1,5 +1,5 @@
 # Customer Segmentation Using RFM Analysis
-This purpose of this project is to segment the customers of a fictitious company into various customer segments using the RFM analysis method. The datasets and Jupyter notebook used in this project are included in this repository.
+This purpose of this project is to segment the customers of a fictional company into various customer segments using the RFM analysis method. The datasets and Jupyter notebook used in this project are included in this repository.
 ## Introduction
 In the dynamic landscape of business and marketing, understanding customer behavior is pivotal to crafting personalized strategies that resonate with individual preferences and needs. Customer segmentation, a fundamental aspect of targeted marketing, has evolved with the advent of sophisticated data analytics techniques. Among these, **RFM (Recency, Frequency, and Monetary Value) analysis** stands out as a powerful method for businesses seeking to unlock valuable insights from their customer transaction data.
 
